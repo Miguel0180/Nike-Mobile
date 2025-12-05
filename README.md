@@ -27,3 +27,7 @@ O app inclui autenticação, gerenciamento de perfil, cadastro de endereços e u
 
 <img width="314" height="684" alt="image" src="https://github.com/user-attachments/assets/dd8ad988-fabe-481f-b346-c901f62e9a72" />
 
+## Link do Deploy
+
+https://trabalho-indidual-08-12-2025.onrender.com/FabLab/swagger-ui/index.html#/
+
